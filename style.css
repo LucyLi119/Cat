@@ -1,0 +1,48 @@
+body {
+  background:#D76735;
+}
+h1 {
+  color:#FFFf00;
+  text-align: center;
+}
+p1{
+  font-weight: bold;
+  text-align: center;
+}
+.img-1{
+  width: 30%;
+  height:30%;
+}
+.img-2{
+  width: 30%;
+  height:20%;
+}
+.img-3{
+  width:30%;
+  height:30%;
+}
+.img-4{
+  width: 30%;
+  height: 30%;
+}
+.img-5{
+  width: 30%;
+  height:30%;
+}
+.img-6{
+  width: 30%;
+  height: 30%;
+}
+.img-7{
+  width: 30%;
+  height: 30%;
+}
+.img-8{
+  width: 30%;
+  height: 30%;
+}
+.div{
+ color: #FFFF00;
+  font-size: 35px;
+  text-align:center;
+}
